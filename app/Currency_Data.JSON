@@ -1,0 +1,28 @@
+{
+  "2024-08-25":{
+    "USD":{
+      "Popularity": 1,
+      "USD": 1
+    },
+    "EUR":{
+      "Popularity": 1,
+      "USD": 1.12
+    },
+    "GBP":{
+      "Popularity": 0,
+      "USD": 1.32
+    },
+    "CNY": {
+      "Popularity": 1,
+      "USD": 0.14
+    },
+    "JPY": {
+      "Popularity": 0,
+      "USD": 0.0069
+    },
+    "AUD": {
+      "Popularity": 1,
+      "USD": 0.68
+    }
+  }
+}
